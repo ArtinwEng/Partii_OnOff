@@ -5,5 +5,5 @@
 private String appid = ""; //APP_ID <br />
 private String key = ""; //KEY <br />
 private String secret = ""; //SECRET <br />
-private String thing = ""; //think name <br />
+private String thing = ""; //thing name <br />
 private String alias = ""; <br />
