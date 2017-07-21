@@ -3,6 +3,7 @@ package th.or.nectec.partii.onoff.partii_onoff;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.design.widget.TabLayout;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
@@ -11,7 +12,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import th.or.nectec.partii.embed.android.EmbeddedUtils.ModelUtil;
+import th.or.nectec.partii.embedded.android.EmbeddedUtils.ModelUtil;
 import th.or.nectec.partii.embedded.android.RecognitionListener;
 import th.or.nectec.partii.embedded.android.SpeechRecognizer;
 
@@ -40,8 +41,8 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
     private String appid = ""; //APP_ID
     private String key = ""; //KEY
     private String secret = ""; //SECRET
-    private String thing = "";
-    private String alias = "";
+    private String thing = "slampher003";
+    private String alias = "android";
 
     Handler handler = new Handler() {
         @Override
@@ -58,7 +59,7 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
         setContentView(R.layout.activity_main);
 
         MicrogearCallBack callback = new MicrogearCallBack();
-        microgear.connect(appid, key, secret);
+        microgear.connect(appid, key, secret,alias);
         microgear.setCallback(callback);
         microgear.subscribe("/slampher003/state");
 

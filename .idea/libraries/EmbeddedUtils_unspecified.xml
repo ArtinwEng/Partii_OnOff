@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="EmbeddedUtils-unspecified">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/70a98383978248b660a7f0e88a64933e6decc0cd/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/70a98383978248b660a7f0e88a64933e6decc0cd/output/jars/libs/partiiembedded-android-5prealpha-nolib.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/70a98383978248b660a7f0e88a64933e6decc0cd/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -7,17 +7,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="1f048d1c1f108e8efb0f86c0725af9c4a2c7dc40">
+        sha1="b638a8e482cbbf13135e476dc198ca321228053b">
         <dex dex="/Users/moo/Documents/My_Project/Partii/Partii_OnOff/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f3e3598c4c6a9f8f02a2c906a86ef0c4de54fce0/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/moo/.android/build-cache/125c05dcab3d0d66a4becc87746c7fe2517ae812/output/jars/classes.jar"
+        jar="/Users/moo/.android/build-cache/70a98383978248b660a7f0e88a64933e6decc0cd/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="89a119d1ce6b4d31ac5a3a4e384cf3151986d370">
-        <dex dex="/Users/moo/Documents/My_Project/Partii/Partii_OnOff/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99964a52b325c4cdd5c8fe38f7d10858a6d0cca9/classes.dex" />
+        sha1="9230393eb4697b78e07bf53d882631aa46f06378">
+        <dex dex="/Users/moo/Documents/My_Project/Partii/Partii_OnOff/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_585069ac1d895fd2d08d557abc0aef63994b8884/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,6 +39,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/moo/.android/build-cache/70a98383978248b660a7f0e88a64933e6decc0cd/output/jars/libs/partiiembedded-android-5prealpha-nolib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45265f91144da44a3508a9ac52d8b68aaa078f38">
+        <dex dex="/Users/moo/Documents/My_Project/Partii/Partii_OnOff/app/build/intermediates/transforms/dex/debug/folders/1000/10/partiiembedded-android-5prealpha-nolib_e6b5733ee71e1cc72a9a50ef942344ea2021294a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/moo/.android/build-cache/ef998365034502e3afe55e60ca43db1869b13e6e/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -54,15 +63,6 @@
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/Users/moo/Documents/My_Project/Partii/Partii_OnOff/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_035cb60f71fe479c7caebea4a9911040823e395b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/moo/.android/build-cache/125c05dcab3d0d66a4becc87746c7fe2517ae812/output/jars/libs/partiiembedded-android-5prealpha-nolib.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="94087d7dd1d952295b45dac67aa88d1f9da2910e">
-        <dex dex="/Users/moo/Documents/My_Project/Partii/Partii_OnOff/app/build/intermediates/transforms/dex/debug/folders/1000/10/partiiembedded-android-5prealpha-nolib_a9ce41a20c832d6931a720546179aec0f5616ab6/classes.dex" />
     </item>
 
 </items>
